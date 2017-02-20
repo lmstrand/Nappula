@@ -1,4 +1,5 @@
 Korttitietokone
+Client-server-ohjelmisto
 ZigBee WLAN
 Kauppias
 Microsoft Dynamics NAV
