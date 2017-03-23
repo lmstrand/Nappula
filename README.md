@@ -1,9 +1,7 @@
 # Nappula
 OMS_2017
 
-1. Täydennä hinnoittalujärjestelmän vaatimusmäärittelyä sanaston osalta. Laadi sanaston käsitteitä koskeva UML-luokkakaavio,
-ja hyödynnä siinä UML-luokkakaavion liitostekniikoita kooste (aggregation), periyttäminen (inheritance, generalization),
-tai nimettyä standardiassosiaatiota.
+
 
 2. Perehdy UML-kielen käyttötapausmalliin opintojakson kirjallisuuden perusteella. Voit toki hyödyntää muitakin lähteitä.
 
